@@ -5,7 +5,7 @@ working with results a lot simpler.
 http://www.python.org/dev/peps/pep-0249/ for Humans
 """
 
-__version__ = "2022.4.0"
+__version__ = "2026.5.0"
 
 from collections import namedtuple
 from contextlib import closing
